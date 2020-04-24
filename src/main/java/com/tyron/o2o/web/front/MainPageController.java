@@ -19,9 +19,6 @@ import com.tyron.o2o.service.ShopCategoryService;
 
 /**
  * @Description: 首页控制层
- *
- * @author: tyron
- * @date: 2018年11月26日
  */
 
 @Controller

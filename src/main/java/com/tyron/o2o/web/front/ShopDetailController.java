@@ -27,9 +27,6 @@ import com.tyron.o2o.util.HttpServletRequestUtil;
 
 /**
  * @Description: 店铺详情控制器
- *
- * @author tyronchen
- * @date 2018年12月2日
  */
 @RequestMapping("/front")
 @Controller

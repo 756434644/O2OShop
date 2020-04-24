@@ -21,9 +21,6 @@ import com.tyron.o2o.util.ImageUtil;
 /**
  * 
  * @Description: 商品业务测试
- *
- * @author: tyron
- * @date: 2018年11月11日
  */
 public class ProductServiceTest extends BaseTest {
 

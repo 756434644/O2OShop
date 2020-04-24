@@ -6,9 +6,6 @@ import com.google.code.kaptcha.Constants;
 
 /**
  * @Description: 工具类
- *
- * @author tyronchen
- * @date 2018年5月28日
  */
 public class CodeUtil {
 

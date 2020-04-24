@@ -11,9 +11,6 @@ import com.tyron.o2o.exceptions.ProductCategoryOperationException;
 
 /**
  * @Description: 店铺的商品类别业务接口
- *
- * @author: tyron
- * @date: 2018年9月21日
  */
 
 public interface ProductCategoryService {

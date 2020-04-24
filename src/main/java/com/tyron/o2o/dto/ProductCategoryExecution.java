@@ -9,9 +9,6 @@ import com.tyron.o2o.enums.ProductCategoryStateEnum;
 /**
  * 
  * @Description: 封装操作ProductCategory的返回结果，包括操作状态和ProductCategory信息
- *
- * @author: tyron
- * @date: 2018年9月22日
  */
 public class ProductCategoryExecution {
 

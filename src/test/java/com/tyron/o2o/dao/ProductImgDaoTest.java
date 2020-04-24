@@ -13,9 +13,6 @@ import com.tyron.o2o.entity.ProductImg;
 
 /**
  * @Description: 商品图片测试
- *
- * @author: tyron
- * @date: 2018年10月27日
  */
 public class ProductImgDaoTest extends BaseTest {
 

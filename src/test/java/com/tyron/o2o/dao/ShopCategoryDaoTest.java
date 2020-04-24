@@ -15,9 +15,6 @@ import com.tyron.o2o.util.PathUtil;
 
 /**
  * @Description: 店铺类别测试
- *
- * @author tyronchen
- * @date 2018年5月27日
  */
 public class ShopCategoryDaoTest extends BaseTest {
 

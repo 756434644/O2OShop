@@ -25,9 +25,6 @@ import com.tyron.o2o.service.ProductCategoryService;
 
 /**
  * @Description: 店铺类别控制层
- *
- * @author: tyron
- * @date: 2018年9月22日
  */
 @RequestMapping(value = "/shopadmin")
 @Controller

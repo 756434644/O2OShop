@@ -4,9 +4,6 @@ import java.util.Date;
 
 /**
  * @Description: 用户信息
- *
- * @author tyronchen
- * @date 2018年3月24日
  */
 public class PersonInfo {
 

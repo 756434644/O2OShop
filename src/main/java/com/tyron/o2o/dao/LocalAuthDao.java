@@ -8,9 +8,6 @@ import com.tyron.o2o.entity.LocalAuth;
 
 /**
  * @Description: 用户登录接口
- *
- * @author tyronchen
- * @date 2019年5月18日
  */
 public interface LocalAuthDao {
 

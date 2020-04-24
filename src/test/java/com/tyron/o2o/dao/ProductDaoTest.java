@@ -15,9 +15,6 @@ import com.tyron.o2o.enums.EnableStatusEnum;
 
 /**
  * @Description: 商品测试
- *
- * @author: tyron
- * @date: 2018年10月27日
  */
 public class ProductDaoTest extends BaseTest {
 

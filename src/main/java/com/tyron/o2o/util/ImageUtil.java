@@ -18,9 +18,6 @@ import net.coobird.thumbnailator.geometry.Positions;
 
 /**
  * @Description: 图片处理工具类
- *
- * @author tyronchen
- * @date 2018年4月10日
  */
 public class ImageUtil {
 	// 获取classpath的绝对值路径

@@ -6,9 +6,6 @@ import com.tyron.o2o.entity.Area;
 
 /**
  * @Description: 区域业务接口
- *
- * @author tyronchen
- * @date 2018年3月24日
  */
 public interface AreaService {
 	public final static String AREA_LIST_KEY = "arealist";

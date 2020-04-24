@@ -11,9 +11,6 @@ import com.tyron.o2o.entity.ProductCategory;
 
 /**
  * @Description: 产品类别数据接口
- *
- * @author: tyron
- * @date: 2018年9月21日
  */
 public interface ProductCategoryDao {
 

@@ -17,9 +17,6 @@ public interface HeadLineDao {
 
 	/**
 	 * 添加首页头条
-	 * 
-	 * @param headLine
-	 * @return
 	 */
 	int insertHeadLine(HeadLine headLine);
 

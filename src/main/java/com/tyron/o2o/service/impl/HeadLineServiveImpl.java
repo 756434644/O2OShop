@@ -33,9 +33,6 @@ import com.tyron.o2o.util.PathUtil;
 
 /**
  * @Description: 首页头条业务接口实现
- *
- * @author: tyron
- * @date: 2018年11月26日
  */
 @Service
 public class HeadLineServiveImpl implements HeadLineService {

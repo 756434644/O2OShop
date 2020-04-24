@@ -36,9 +36,6 @@ import com.tyron.o2o.util.HttpServletRequestUtil;
 
 /**
  * @Description: 商品操作控制器
- *
- * @author: tyron
- * @date: 2018年11月17日
  */
 
 @Controller

@@ -25,9 +25,6 @@ import com.tyron.o2o.util.PathUtil;
 
 /**
  * @Description: 商品业务接口实现
- *
- * @author: tyron
- * @date: 2018年10月27日
  */
 @Service
 public class ProductServiceImpl implements ProductService {

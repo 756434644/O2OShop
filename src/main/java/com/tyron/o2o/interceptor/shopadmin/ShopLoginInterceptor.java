@@ -11,9 +11,6 @@ import com.tyron.o2o.enums.PersonInfoTypeEnum;
 
 /**
  * @Description: 店家管理系统登录拦截器
- *
- * @author tyronchen
- * @date 2019年5月17日
  */
 public class ShopLoginInterceptor extends HandlerInterceptorAdapter {
 

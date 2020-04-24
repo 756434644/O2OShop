@@ -2,9 +2,6 @@ package com.tyron.o2o.enums;
 
 /**
  * @Description: 商品状态枚举
- *
- * @author: tyron
- * @date: 2018年10月27日
  */
 public enum ProductStateEnum {
 

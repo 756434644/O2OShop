@@ -23,9 +23,6 @@ import com.tyron.o2o.util.PathUtil;
 
 /**
  * @Description: 店铺接口实现类
- *
- * @author tyronchen
- * @date 2018年4月13日
  */
 @Service
 public class ShopServiceImpl implements ShopService {

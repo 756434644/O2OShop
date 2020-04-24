@@ -2,9 +2,6 @@ package com.tyron.o2o.exceptions;
 
 /**
  * @Description: 用户信息操作异常
- *
- * @author tyronchen
- * @date 2019年6月5日  
  */
 public class PersonInfoOperationException extends RuntimeException {
 

@@ -16,9 +16,6 @@ import com.tyron.o2o.entity.ProductCategory;
 
 /**
  * @Description: 店铺类别dao层测试
- *
- * @author: tyron
- * @date: 2018年9月21日
  */
 
 public class ProductCategoryDaoTest extends BaseTest {

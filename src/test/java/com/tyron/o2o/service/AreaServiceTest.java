@@ -10,9 +10,6 @@ import com.tyron.o2o.entity.Area;
 
 /**
  * @Description: 区域业务测试
- *
- * @author tyronchen
- * @date 2018年3月24日
  */
 public class AreaServiceTest extends BaseTest {
 

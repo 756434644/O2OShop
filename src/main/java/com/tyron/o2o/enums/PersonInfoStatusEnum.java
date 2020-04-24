@@ -2,9 +2,6 @@ package com.tyron.o2o.enums;
 
 /**
  * @Description: 用户可用状态信息
- *
- * @author tyronchen
- * @date 2019年6月2日
  */
 public enum PersonInfoStatusEnum {
 

@@ -8,9 +8,6 @@ import com.tyron.o2o.entity.Shop;
 
 /**
  * @Description: 店铺数据接口
- *
- * @author tyronchen
- * @date 2018年3月31日
  */
 public interface ShopDao {
 

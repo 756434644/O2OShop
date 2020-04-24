@@ -26,9 +26,6 @@ import com.tyron.o2o.util.PathUtil;
 
 /**
  * @Description: 店鋪类别业务接口实现类
- *
- * @author tyronchen
- * @date 2018年5月27日
  */
 @Service
 public class ShopCategoryServiceImpl implements ShopCategoryService {

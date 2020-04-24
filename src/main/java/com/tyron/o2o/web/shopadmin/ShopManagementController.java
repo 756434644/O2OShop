@@ -36,9 +36,7 @@ import com.tyron.o2o.util.CodeUtil;
 import com.tyron.o2o.util.HttpServletRequestUtil;
 
 /**
- * @author tyronchen
  * @Description: 店铺操作控制器
- * @date 2018年4月15日
  */
 @Controller
 @RequestMapping("/shopadmin")

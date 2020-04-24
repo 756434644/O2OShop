@@ -26,9 +26,6 @@ import com.tyron.o2o.util.HttpServletRequestUtil;
 
 /**
  * @Description: 本地用户信息
- *
- * @author tyronchen
- * @date 2019年5月22日
  */
 @Controller
 @RequestMapping("/user")

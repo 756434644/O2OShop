@@ -6,9 +6,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
  * @Description: 店铺管理员控制器
- *
- * @author tyronchen
- * @date 2018年4月15日
  */
 @Controller
 @RequestMapping(value = "shopadmin", method = { RequestMethod.GET })

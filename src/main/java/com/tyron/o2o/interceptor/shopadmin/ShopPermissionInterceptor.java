@@ -11,9 +11,6 @@ import com.tyron.o2o.entity.Shop;
 
 /**
  * @Description: 店铺操作权限拦截器
- *
- * @author tyronchen
- * @date 2019年6月24日
  */
 public class ShopPermissionInterceptor extends HandlerInterceptorAdapter {
 

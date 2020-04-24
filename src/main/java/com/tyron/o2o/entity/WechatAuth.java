@@ -4,9 +4,6 @@ import java.util.Date;
 
 /**
  * @Description: 微信用户实体类
- *
- * @author tyronchen
- * @date 2018年3月24日
  */
 public class WechatAuth {
 	private Long wechatAuthId;

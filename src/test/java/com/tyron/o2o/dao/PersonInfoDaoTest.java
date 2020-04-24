@@ -15,9 +15,6 @@ import com.tyron.o2o.enums.PersonInfoTypeEnum;
 
 /**
  * @Description: 用户信息数据层测试
- *
- * @author tyronchen
- * @date 2019年6月3日
  */
 public class PersonInfoDaoTest extends BaseTest {
 

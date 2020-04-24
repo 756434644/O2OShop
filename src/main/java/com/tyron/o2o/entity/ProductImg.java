@@ -4,9 +4,6 @@ import java.util.Date;
 
 /**
  * @Description: 商品图片实体类
- *
- * @author tyronchen
- * @date 2018年3月24日
  */
 public class ProductImg {
 	private Long productImgId;

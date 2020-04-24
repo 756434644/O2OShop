@@ -12,9 +12,6 @@ import redis.clients.util.SafeEncoder;
 
 /**
  * @Description: Redis工具类
- *
- * @author tyronchen
- * @date 2018年12月26日
  */
 public class JedisUtil {
 	/**

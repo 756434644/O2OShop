@@ -6,9 +6,6 @@ import com.tyron.o2o.entity.Area;
 
 /**
  * @Description: 区域数据接口
- *
- * @author tyronchen
- * @date 2018年3月24日
  */
 public interface AreaDao {
 

@@ -9,9 +9,6 @@ import com.tyron.o2o.enums.ProductStateEnum;
 /**
  * 
  * @Description: 商品返回结果信息
- *
- * @author: tyron
- * @date: 2018年10月27日
  */
 public class ProductExecution {
 

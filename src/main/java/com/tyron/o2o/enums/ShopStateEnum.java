@@ -2,9 +2,6 @@ package com.tyron.o2o.enums;
 
 /**
  * @Description: 店铺状态枚举
- *
- * @author tyronchen
- * @date 2018年4月10日
  */
 public enum ShopStateEnum {
 	CHECK(0, "审核中"), PASS(1, "通过认证"), OFFLINE(-2001, "非法商铺"), EDIT_ERROR(-2002, "店铺操作失败"),

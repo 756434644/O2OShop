@@ -8,9 +8,6 @@ import com.tyron.o2o.enums.ShopStateEnum;
 
 /**
  * @Description: 店铺返回结果信息,在编写service之前编写
- *
- * @author tyronchen
- * @date 2018年4月10日
  */
 public class ShopExecution {
 

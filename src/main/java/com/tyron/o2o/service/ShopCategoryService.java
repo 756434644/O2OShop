@@ -9,9 +9,6 @@ import com.tyron.o2o.entity.ShopCategory;
 
 /**
  * @Description: 店鋪类别业务接口
- *
- * @author tyronchen
- * @date 2018年5月27日
  */
 public interface ShopCategoryService {
 	public final static String SC_LIST_KEY = "shopcategorylist";

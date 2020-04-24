@@ -21,9 +21,6 @@ import com.tyron.o2o.entity.ShopCategory;
 
 /**
  * @Description: 店铺业务测试
- *
- * @author tyronchen
- * @date 2018年4月15日
  */
 public class ShopServiceTest extends BaseTest {
 

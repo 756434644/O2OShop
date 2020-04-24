@@ -6,7 +6,117 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c45fc55e-e762-4606-a8ba-762984b87389" name="Default Changelist" comment="" />
+    <list default="true" id="c45fc55e-e762-4606-a8ba-762984b87389" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapp/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapp/debug/debug.2020-04-16.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapp/error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapp/info.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/cache/JedisPoolWriper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/cache/JedisPoolWriper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/cache/JedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/cache/JedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/AreaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/AreaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/HeadLineDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/HeadLineDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/LocalAuthDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/LocalAuthDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/PersonInfoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/PersonInfoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ProductCategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ProductCategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ProductImgDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ProductImgDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ShopCategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ShopCategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ShopDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ShopDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/HeadLineExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/HeadLineExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/LocalAuthExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/LocalAuthExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/PersonInfoExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/PersonInfoExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ProductCategoryExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ProductCategoryExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ProductExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ProductExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ShopCategoryExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ShopCategoryExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ShopExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ShopExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/HeadLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/HeadLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/LocalAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/LocalAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/PersonInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/PersonInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/ProductCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/ProductCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/ProductImg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/ProductImg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/ShopCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/ShopCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/WechatAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/WechatAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/EnableStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/EnableStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/HeadLineStateEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/HeadLineStateEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/LocalAuthStateEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/LocalAuthStateEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/OperationStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/OperationStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/PersonInfoStateEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/PersonInfoStateEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/PersonInfoStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/PersonInfoStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/PersonInfoTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/PersonInfoTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/ProductCategoryStateEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/ProductCategoryStateEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/ProductStateEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/ProductStateEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/ShopCategoryStateEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/ShopCategoryStateEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/ShopStateEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/ShopStateEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/AreaOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/AreaOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/HeadLineOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/HeadLineOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/LocalAuthOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/LocalAuthOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/PersonInfoOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/PersonInfoOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/ProductCategoryOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/ProductCategoryOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/ProductOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/ProductOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/ShopCategoryOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/ShopCategoryOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/ShopOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/exceptions/ShopOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/interceptor/shopadmin/ShopLoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/interceptor/shopadmin/ShopLoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/interceptor/shopadmin/ShopPermissionInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/interceptor/shopadmin/ShopPermissionInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/AreaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/AreaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/CacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/CacheService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/HeadLineService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/HeadLineService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/LocalAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/LocalAuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/PersonInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/PersonInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ProductCategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ProductCategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ShopCategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ShopCategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ShopService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/AreaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/AreaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/CacheServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/CacheServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/HeadLineServiveImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/HeadLineServiveImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/LocalAuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/LocalAuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/PersonInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/PersonInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ProductCategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ProductCategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ShopCategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ShopCategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ShopServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ShopServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/CodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/CodeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/DESUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/DESUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/EncryptPropertyPlaceholderConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/EncryptPropertyPlaceholderConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/HttpServletRequestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/HttpServletRequestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/ImageUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/ImageUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/PageCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/PageCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/PathUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/PathUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/AreaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/AreaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/FrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/FrontController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/MainPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/MainPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ProductDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ProductDetailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ShopDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ShopDetailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ShopListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ShopListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/LocalAuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/LocalAuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductCategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductCategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/watermark.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/watermark.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/AreaDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/AreaDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/HeadLineDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/HeadLineDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/LocalAuthDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/LocalAuthDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/PersonInfoDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/PersonInfoDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductCategoryDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductCategoryDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductImgDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductImgDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopCategoryDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopCategoryDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/AreaServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/AreaServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/ProductServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/ProductServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/ShopServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/ShopServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/watermark.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/watermark.jpg" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../o2o-ssm-master/target/" />
     <ignored path="$PROJECT_DIR$/../o2o-master/target/" />
@@ -56,17 +166,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/front/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="82" column="34" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -89,50 +189,63 @@
       <find>selectShopCategory</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/mapper/AreaDao.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/AreaController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ShopServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/ImageUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/PathUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/interceptor/shopadmin/ShopPermissionInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/AreaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/CacheService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/HeadLineService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/LocalAuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/PersonInfoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ProductCategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ShopCategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ShopService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/AreaServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/HeadLineServiveImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/LocalAuthServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/cache/JedisUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/sql/redis.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-redis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/PersonInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ProductCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ShopCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ShopServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/CodeUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/DESUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/redis.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/EncryptPropertyPlaceholderConfigurer.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mapper/LocalAuthDao.xml" />
-        <option value="$PROJECT_DIR$/../o2o-ssm-master/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/../o2o-master/src/main/resources/redis.properties" />
-        <option value="$PROJECT_DIR$/../o2o-master/src/main/java/cn/mark/o2o/util/PathUtil.java" />
-        <option value="$PROJECT_DIR$/../o2o-master/src/main/java/cn/mark/o2o/util/EncryptPropertyPlaceholderConfigurer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/LocalAuthDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/ShopServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/front/index.html" />
-        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shopmanagement.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shoplist.js" />
-        <option value="$PROJECT_DIR$/../o2o-2.0-master/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/../o2o-2.0-master/src/main/java/top/ywlog/o2o/service/impl/LocalAuthServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../o2o-2.0-master/src/main/java/top/ywlog/o2o/config/DatasourceConfiguration.java" />
-        <option value="$PROJECT_DIR$/../SpringBoot-o2o-master/src/main/java/com/imooc/o2o/config/dao/DataSourceConfiguration.java" />
-        <option value="$PROJECT_DIR$/../SpringBoot-o2o-master/src/test/java/com/imooc/o2o/dao/AreaDaoTest.java" />
-        <option value="$PROJECT_DIR$/../SpringBoot-o2o-master/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ShopExecution.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopoperation.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ShopCategoryDao.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopCategoryDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopManagementController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/HttpServletRequestUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/ImageUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/PageCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/PathUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/FrontController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/MainPageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ProductDetailController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ShopDetailController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ShopListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/LocalAuthController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductCategoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductManagementController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopAdminController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/shop/productoperation.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopManagementController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/AreaController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/AreaServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/AreaDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/HeadLineDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/LocalAuthDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/PersonInfoDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductCategoryDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductImgDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopCategoryDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/ProductServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/ShopServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tyron/o2o/BaseTest.java" />
       </list>
     </option>
   </component>
@@ -161,8 +274,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,65 +297,124 @@
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="shopadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="front" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -252,17 +422,27 @@
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="o2o" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="shopadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
@@ -303,17 +483,26 @@
               <item name="o2o" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="o2o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-o2o-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587650070128" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587700853329" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot-o2o-master/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -324,7 +513,12 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\imooc-o2o-master\src\main\resources\sql" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\imooc-o2o-master\src\main\resources" />
+      <recent name="E:\imooc-o2o-master\src\test\resources" />
       <recent name="E:\o2o-master\src\main\resources" />
     </key>
   </component>
@@ -597,6 +791,7 @@
       <workItem from="1587470820441" duration="13232000" />
       <workItem from="1587604403532" duration="1284000" />
       <workItem from="1587607203068" duration="5412000" />
+      <workItem from="1587700348088" duration="589000" />
     </task>
     <servers />
   </component>
@@ -633,12 +828,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64893000" />
+    <option name="totallyTimeSpent" value="65482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23767179" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24171382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -647,7 +842,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32931036" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328152" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.87068963" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -716,231 +911,143 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/AreaController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/entity/Shop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="63" column="47" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/enums/ShopStateEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/dto/ShopExecution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="35" column="48" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/HttpServletRequestUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shopmanagement.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ShopCategoryDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="26" column="71" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopCategoryDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="78" column="42" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ShopCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="24" column="77" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ShopCategoryServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-644">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shopoperation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1932" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopmanagement.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopoperation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2599">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/AreaDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/HeadLineDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/AreaServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-205">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/AreaService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/dao/ShopDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-726">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/ShopService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        <state relative-caret-position="46">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/service/impl/ShopServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-667">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="26" />
+        <state relative-caret-position="184">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopAdminController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/CodeUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+        <state relative-caret-position="69">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductManagementController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/DESUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1564">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        <state relative-caret-position="46">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductCategoryController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/EncryptPropertyPlaceholderConfigurer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2428">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state relative-caret-position="69">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/AdminController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/HttpServletRequestUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="46">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/LocalAuthController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/ImageUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1978">
-          <caret line="108" column="4" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="33" />
+        <state relative-caret-position="69">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/FrontController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/PageCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-390">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="69">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/PathUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/MainPageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-680">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="23">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ProductDetailController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="23">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ShopDetailController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1127">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state relative-caret-position="23">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/ShopListController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2507">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="23">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/local/LocalAuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ProductManagementController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopManagementController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4140">
-          <caret line="90" column="43" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="43" />
+        <state relative-caret-position="23">
+          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/shop/shoplist.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/shopadmin/ShopAdminController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="10" selection-start-line="3" selection-end-line="4" />
+        <state relative-caret-position="23">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/shop/productoperation.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/AreaController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1623">
-          <caret line="80" column="58" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="58" />
+        <state relative-caret-position="23">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -948,92 +1055,172 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/HeadLineDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1932" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/LocalAuthDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="87" column="23" lean-forward="true" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/PersonInfoDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-933" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductCategoryDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductDao.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/o2o.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1725" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductImgDao.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-726" />
+        <state relative-caret-position="-828" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ShopCategoryDao.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/watermark.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/front/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-933">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
+        <state relative-caret-position="-552" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1991">
-          <caret line="86" column="30" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/shop/productcategorymanage.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-redis.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/admin/changepwd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-276" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/front/shoplist.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3403" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/front/shopdetail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1932" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/admin/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-758">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="184">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/admin/changepwd.js">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/AreaDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1242" />
+        <state relative-caret-position="46">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/admin/register.js">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/HeadLineDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483" />
+        <state relative-caret-position="46">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/common/common.js">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/LocalAuthDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-735" />
+        <state relative-caret-position="69">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/front/index.js">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/PersonInfoDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="82" column="34" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="34" />
+        <state relative-caret-position="69">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductCategoryDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ProductImgDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopCategoryDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/dao/ShopDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/AreaServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/ProductServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/service/ShopServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tyron/o2o/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/watermark.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/watermark.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/cache/JedisPoolWriper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/cache/JedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/util/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tyron/o2o/web/front/FrontController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -2,10 +2,7 @@ package com.tyron.o2o.dto;
 
 /**
  * 
- * @Description: 封装json对象，所有返回结果都使用它 
- *
- * @author: tyron
- * @date: 2018年9月22日
+ * @Description: 封装json对象，所有返回结果都使用它
  */
 public class Result<T> {
 

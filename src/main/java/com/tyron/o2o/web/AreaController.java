@@ -18,9 +18,6 @@ import com.tyron.o2o.service.AreaService;
 
 /**
  * @Description: 区域控制器
- *
- * @author tyronchen
- * @date 2018年3月24日
  */
 @Controller
 @RequestMapping("/superadmin")

@@ -8,9 +8,6 @@ import com.tyron.o2o.exceptions.ShopOperationException;
 
 /**
  * @Description: 店铺业务接口
- *
- * @author tyronchen
- * @date 2018年4月13日
  */
 public interface ShopService {
 

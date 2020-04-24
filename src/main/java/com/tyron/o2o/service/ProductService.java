@@ -10,9 +10,6 @@ import com.tyron.o2o.exceptions.ProductOperationException;
 
 /**
  * @Description: 商品业务接口
- *
- * @author: tyron
- * @date: 2018年10月27日
  */
 
 public interface ProductService {

@@ -14,9 +14,6 @@ import com.tyron.o2o.entity.PersonInfo;
 
 /**
  * @Description: 本地用户信息数据层测试
- *
- * @author tyronchen
- * @date 2019年5月20日
  */
 public class LocalAuthDaoTest extends BaseTest {
 

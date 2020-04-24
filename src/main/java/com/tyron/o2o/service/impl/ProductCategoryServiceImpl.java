@@ -17,9 +17,6 @@ import com.tyron.o2o.service.ProductCategoryService;
 
 /**
  * @Description: 店铺的商品类别业务接口实现
- *
- * @author: tyron
- * @date: 2018年9月21日
  */
 
 @Service

@@ -8,9 +8,6 @@ import com.tyron.o2o.entity.LocalAuth;
 
 /**
  * @Description: 本地账号返回信息
- *
- * @author tyronchen
- * @date 2019年5月20日
  */
 public class LocalAuthExecution {
 	// 结果状态

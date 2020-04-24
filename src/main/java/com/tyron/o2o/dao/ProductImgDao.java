@@ -6,9 +6,6 @@ import com.tyron.o2o.entity.ProductImg;
 
 /**
  * @Description: 商品图片数据接口
- *
- * @author: tyron
- * @date: 2018年10月27日
  */
 
 public interface ProductImgDao {

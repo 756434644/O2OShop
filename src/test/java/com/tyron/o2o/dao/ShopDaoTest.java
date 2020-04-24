@@ -16,9 +16,6 @@ import com.tyron.o2o.enums.EnableStatusEnum;
 
 /**
  * @Description: 测试店铺接口
- *
- * @author tyronchen
- * @date 2018年3月31日
  */
 public class ShopDaoTest extends BaseTest {
 //	先注入Dao

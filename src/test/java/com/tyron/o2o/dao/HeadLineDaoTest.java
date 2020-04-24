@@ -18,9 +18,6 @@ import com.tyron.o2o.util.PathUtil;
 
 /**
  * @Description: 首页头条数据接口测试
- *
- * @author: tyron
- * @date: 2018年11月25日
  */
 
 public class HeadLineDaoTest extends BaseTest {

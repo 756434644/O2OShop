@@ -11,9 +11,6 @@ import sun.misc.BASE64Encoder;
 
 /**
  * @Description: DES是一种对称加密算法。 所谓对称加密算法就是指使用相同的密钥
- *
- * @author tyronchen
- * @date 2018年12月25日
  */
 @SuppressWarnings("restriction")
 public class DESUtil {

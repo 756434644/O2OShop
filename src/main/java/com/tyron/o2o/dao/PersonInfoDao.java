@@ -4,9 +4,6 @@ import com.tyron.o2o.entity.PersonInfo;
 
 /**
  * @Description: 用户信息接口
- *
- * @author tyronchen
- * @date 2019年6月3日
  */
 public interface PersonInfoDao {
 

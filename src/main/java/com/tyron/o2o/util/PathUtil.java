@@ -2,9 +2,6 @@ package com.tyron.o2o.util;
 
 /**
  * @Description: 路径工具类
- *
- * @author tyronchen
- * @date 2018年4月11日
  */
 public class PathUtil {
 

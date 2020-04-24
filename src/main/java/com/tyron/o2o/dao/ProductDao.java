@@ -8,9 +8,6 @@ import com.tyron.o2o.entity.Product;
 
 /**
  * @Description: 商品数据接口
- *
- * @author: tyron
- * @date: 2018年10月26日
  */
 
 public interface ProductDao {

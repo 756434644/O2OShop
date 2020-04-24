@@ -23,9 +23,6 @@ import com.tyron.o2o.service.AreaService;
 
 /**
  * @Description: 区域业务接口实现
- *
- * @author tyronchen
- * @date 2018年3月24日
  */
 @Service
 public class AreaServiceImpl implements AreaService {
