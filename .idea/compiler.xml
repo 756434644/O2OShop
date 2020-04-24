@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="o2o" />
+        <module name="o2o (1) (com.imooc)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="o2o (1) (cn.mark)" target="1.8" />
+      <module name="o2o (1) (com.jerry)" target="1.8" />
+      <module name="o2o (1) (top.ywlog)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="o2o (1) (com.imooc)" options="-parameters" />
+      <module name="o2o (1) (top.ywlog)" options="-parameters" />
+    </option>
+  </component>
+</project>
